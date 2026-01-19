@@ -1,4 +1,3 @@
-# WISEplanning
 ## Service Thresholds
 
 | Service | Threshold |
