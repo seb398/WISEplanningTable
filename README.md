@@ -35,8 +35,8 @@
             background-color: #e8f4fd;
             padding: 10px;
             border-left: 4px solid #007acc;
-            margin-top: 20px;
-            max-width: 50%;
+            margin: 20px auto;
+            width: fit-content;
         }
         table {
             border-collapse: collapse;
