@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -40,14 +40,16 @@
             max-width: 50%;
         }
         table {
-            width: 100%;
             border-collapse: collapse;
-            margin: 20px 0;
+            margin: 20px auto;
+            table-layout: auto;
+            width: fit-content;
         }
         table th, table td {
             border: 1px solid #ddd;
             padding: 12px;
             text-align: left;
+            width: 50%;
         }
         table th {
             background-color: #007acc;
