@@ -37,6 +37,7 @@
             padding: 10px;
             border-left: 4px solid #007acc;
             margin-top: 20px;
+            max-width: 50%;
         }
         table {
             width: 100%;
