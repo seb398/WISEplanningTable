@@ -12,6 +12,3 @@
 
 **Note:** Should the value of a The Money Matrix (TMM) or The Lifestyle Positioner (TLP) client's portfolio exceed these levels, the client will be offered a more suitable service to ensure appropriate advice delivery and compliance with legal requirements.
 
-## View the styled version
-
-Open `index.html` in a browser to view the service thresholds with professional styling and formatting.
